@@ -21,6 +21,7 @@ print("Type de t :", type(t))
 print("-------------")
 print("| Exercices |")
 print("-------------")
+
 # Exercice
 # Create a variable with your name and display it
 
@@ -30,5 +31,5 @@ print("-------------")
 
 # Write a variable with your size and display it (float only)
 
-# Write a liste with your name, age and size and display it
+# Write a list with your name, age and size and display it
 # If you want to save a variable of many person for example, you can use list
